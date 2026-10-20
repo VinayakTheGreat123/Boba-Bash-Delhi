@@ -1,0 +1,37 @@
+body {
+    background-color: #ffe5e5;
+    font-family: Arial;
+    margin: 40px;
+    color: #222;
+}
+
+h1 {
+    color: #16805c;
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+    margin-top: 30px;
+}
+
+img {
+    width: 230px;
+    display: block;
+    margin: 20px auto;
+}
+
+p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+ul {
+    font-size: 17px;
+    line-height: 2;
+}
+
+.last {
+    margin-top: 35px;
+    font-style: italic;
+}
